@@ -1,5 +1,5 @@
-# my-first-repo
-open source code 
+# NeoVerse-3000
+human male character 
 # 🌌 NeoVerse 3000
 
 > **Designing the Future of Gaming — From the 30th Century to Reality.**
